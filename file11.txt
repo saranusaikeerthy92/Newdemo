@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-local file conflict
-=======
-conflict file in remote
->>>>>>> cd2d4405571911a77ed11279d882f83fb297fa3e
